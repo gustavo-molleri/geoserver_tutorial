@@ -1,0 +1,8 @@
+http://geoserver.org/
+
+
+
+
+
+# Consulta pela URL
+http://gis.stackexchange.com/questions/110399/passing-filter-parameters-to-geoserver-wfs-via-url
