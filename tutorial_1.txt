@@ -8,6 +8,8 @@ http://geoserver.org/
 http://gis.stackexchange.com/questions/110399/passing-filter-parameters-to-geoserver-wfs-via-url
 
 
+# View
+http://docs.geoserver.org/stable/en/user/data/database/sqlview.html
 
 
 # Python GEOSERVER
