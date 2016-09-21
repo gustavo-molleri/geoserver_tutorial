@@ -6,3 +6,16 @@ http://geoserver.org/
 
 # Consulta pela URL
 http://gis.stackexchange.com/questions/110399/passing-filter-parameters-to-geoserver-wfs-via-url
+
+
+
+
+# Python GEOSERVER
+http://pt.slideshare.net/JaredErickson/scripting-geoserver
+
+
+# Scripting
+http://geoserver.readthedocs.io/en/latest/community/scripting/hooks.html
+
+http://docs.geoserver.org/stable/en/user/community/scripting/installation.html
+http://ares.boundlessgeo.com/geoserver/2.9.x/community-latest/geoserver-2.9-SNAPSHOT-python-plugin.zip
